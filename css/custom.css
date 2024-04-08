@@ -1,0 +1,7 @@
+/* Add here all your CSS customizations */
+.text-color-primary{
+    color: #e12028 !important;
+}
+#footer .footer-ribbon {
+    background: #e12028 !important;
+}
